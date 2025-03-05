@@ -11,7 +11,7 @@ I'm a passionate **Software Developer** with expertise in **AWS, Full-Stack Deve
   <a href="#"><img src="https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-web-services&logoColor=white"/></a> &nbsp;   &nbsp;
   <a href="#"><img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff"/></a> &nbsp;   &nbsp;
   <a href="#"><img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=white"/></a> &nbsp;   &nbsp;
-  <a href="#"><img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff"/></a> &nbsp; -- &nbsp;
+  <a href="#"><img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff"/></a> &nbsp;  &nbsp;
 </p>
 
 
@@ -80,8 +80,7 @@ I'm a passionate **Software Developer** with expertise in **AWS, Full-Stack Deve
 
 ## 💬 Let's Connect!
 
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/vekash-s-148068162/)  
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/vek199)  
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/vekash-s-148068162/)  [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/vek199)  
 📄 **Resume:** [Download Here](./Vekash_S_Resume.pdf)  
 📧 **Email:** vekash1992002@gmail.com  
 📱 **Contact:** +91 9952776391
