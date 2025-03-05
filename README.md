@@ -6,7 +6,16 @@ I'm a passionate **Software Developer** with expertise in **AWS, Full-Stack Deve
 
 ## 🔧 Tech Stack & Skills
 
-- **Programming Languages:** Python, Java, SQL  
+<p align="center">
+  <img src="https://camo.githubusercontent.com/e0c9609001bfbca7e151a2636a57ff51b54ea83129c26ae4061147cb517c12b6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2d3134333534433f7374796c653d666c6174266c6f676f3d707974686f6e" />
+  <img src="https://camo.githubusercontent.com/e0c9609001bfbca7e151a2636a57ff51b54ea83129c26ae4061147cb517c12b6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4157532d4646393932303f7374796c653d666c6174266c6f676f3d617773" />
+  <img src="https://camo.githubusercontent.com/e0c9609001bfbca7e151a2636a57ff51b54ea83129c26ae4061147cb517c12b6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f53514c2d3030353538433f7374796c653d666c6174266c6f676f3d73716c" />
+  <img src="https://camo.githubusercontent.com/e59c5de462774ee1937e5b2f9d9a5f9bc26d48cbb3cb69f20763cfbc9a7fdd36/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f7765722042492d4646434232313f7374796c653d666c6174266c6f676f3d706f7765722d6269" />
+  <img src="https://camo.githubusercontent.com/e0c9609001bfbca7e151a2636a57ff51b54ea83129c26ae4061147cb517c12b6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5675652e6a732d3446433038443f7374796c653d666c6174266c6f676f3d7675652e6a73" />
+</p>
+
+
+- **Programming Languages:** Python, SQL, Java  
 - **Frameworks & Libraries:** Flask, PySpark, Vue.js, Redis, IoT & Embedded Systems, PyTorch  
 - **Databases:** SQLite, MySQL, PostgreSQL  
 - **Tools & Platforms:** AWS, Power BI, Git, Excel, HTML, CSS, JavaScript (JS)  
@@ -68,19 +77,13 @@ I'm a passionate **Software Developer** with expertise in **AWS, Full-Stack Deve
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vek199&show_icons=true&theme=radical)
-
----
-
 ## 💬 Let's Connect!
 
 [![LinkedIn](https://camo.githubusercontent.com/e0c9609001bfbca7e151a2636a57ff51b54ea83129c26ae4061147cb517c12b6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d426c75653f7374796c653d666c6174266c6f676f3d6c696e6b6564696e)](https://www.linkedin.com/in/vekash-s-148068162/)  
 [![GitHub](https://camo.githubusercontent.com/e0c9609001bfbca7e151a2636a57ff51b54ea83129c26ae4061147cb517c12b6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875622d466f6c6c6f773f7374796c653d666c6174266c6f676f3d676974687562)](https://github.com/vek199)  
 📄 **Resume:** [Download Here](./Vekash_S_Resume.pdf)  
 📧 **Email:** vekash1992002@gmail.com  
-📱 **Contact:** +91 99527 76391
+📱 **Contact:** +91 9952776391
 
 🔹 Open to **Data Analytics & AWS projects**!
 
