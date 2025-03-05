@@ -1,15 +1,15 @@
-# Hi, I'm Vekash S! 🚀
+# Hi, I'm Vekash S!
 
-I'm a passionate **Software Developer** with expertise in **Full-Stack Development, Data Science, and Embedded Systems**. I love working on innovative projects that bridge technology and real-world applications. Currently, I'm exploring **AI, Machine Learning, and Cloud Computing**.
+I'm a passionate **Software Developer** with expertise in **AWS, Full-Stack Development, Data Analytics, and Embedded Systems**. I have a strong foundation in **AWS services** and cloud computing. I enjoy working on innovative projects that bridge technology and real-world applications, with a keen interest in **AI, Machine Learning, and Data Engineering**.
 
 ---
 
 ## 🔧 Tech Stack & Skills
 
 - **Programming Languages:** Python, Java, SQL  
-- **Frameworks & Libraries:** Flask, PySpark, IoT & Embedded Systems  
-- **Databases:** SQLite, MySQL  
-- **Tools & Platforms:** AWS, Power BI, Excel  
+- **Frameworks & Libraries:** Flask, PySpark, Vue.js, Redis, IoT & Embedded Systems, PyTorch  
+- **Databases:** SQLite, MySQL, PostgreSQL  
+- **Tools & Platforms:** AWS, Power BI, Git, Excel, HTML, CSS, JavaScript (JS)  
 - **Specializations:** Data Analytics with AWS, Business Data Analytics, Machine Learning  
 
 ---
@@ -42,6 +42,10 @@ I'm a passionate **Software Developer** with expertise in **Full-Stack Developme
 - Engineered a **facial recognition-based access system**.
 - Reduced access control costs by **70%** over traditional solutions.
 
+### **Spotify AWS Data Engineering Pipeline** *(Public Project)*
+- Developed an **End-to-End Spotify Data Pipeline** using **AWS Glue, Athena & QuickSight**.
+- Processed large-scale **music streaming data** for real-time analytics and insights.
+
 ### **Team Sea Sakthi - Monaco Energy Boat Challenge** *(Aug 2022)*
 - Designed **real-time boat monitoring systems**.
 - Achieved **6th place out of 22 countries**.
@@ -50,8 +54,8 @@ I'm a passionate **Software Developer** with expertise in **Full-Stack Developme
 
 ## 🎖️ Achievements
 
-- 🏆 **6th Place** - Monaco Energy Boat Challenge *(International Event)*
-- 🥈 **2nd Place** - Art Competition at NIT Trichy
+- **6th Place** - Monaco Energy Boat Challenge *(International Event)*
+- **2nd Place** - Art Competition at NIT Trichy
 
 ---
 
@@ -72,10 +76,11 @@ I'm a passionate **Software Developer** with expertise in **Full-Stack Developme
 
 ## 💬 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/vekash-s-148068162/)  
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/vek199)  
+[![LinkedIn](https://camo.githubusercontent.com/e0c9609001bfbca7e151a2636a57ff51b54ea83129c26ae4061147cb517c12b6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d426c75653f7374796c653d666c6174266c6f676f3d6c696e6b6564696e)](https://www.linkedin.com/in/vekash-s-148068162/)  
+[![GitHub](https://camo.githubusercontent.com/e0c9609001bfbca7e151a2636a57ff51b54ea83129c26ae4061147cb517c12b6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875622d466f6c6c6f773f7374796c653d666c6174266c6f676f3d676974687562)](https://github.com/vek199)  
+📄 **Resume:** [Download Here](./Vekash_S_Resume.pdf)  
 📧 **Email:** vekash1992002@gmail.com  
 📱 **Contact:** +91 99527 76391
 
-🔥 Open to **collaborations, open-source contributions, and innovative AI & ML projects!**
+🔹 Open to **Data Analytics & AWS projects**!
 
