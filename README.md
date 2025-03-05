@@ -7,10 +7,10 @@ I'm a passionate **Software Developer** with expertise in **AWS, Full-Stack Deve
 ## 🔧 Tech Stack & Skills
 
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff"/></a> &nbsp; -- &nbsp;
-  <a href="#"><img src="https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-web-services&logoColor=white"/></a> &nbsp; -- &nbsp;
-  <a href="#"><img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff"/></a> &nbsp; -- &nbsp;
-  <a href="#"><img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=black" width="140" height="30"/></a> &nbsp; -- &nbsp;
+  <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff"/></a> &nbsp;   &nbsp;
+  <a href="#"><img src="https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-web-services&logoColor=white"/></a> &nbsp;   &nbsp;
+  <a href="#"><img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff"/></a> &nbsp;   &nbsp;
+  <a href="#"><img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=white"/></a> &nbsp;   &nbsp;
   <a href="#"><img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff"/></a> &nbsp; -- &nbsp;
 </p>
 
