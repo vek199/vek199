@@ -7,12 +7,13 @@ I'm a passionate **Software Developer** with expertise in **AWS, Full-Stack Deve
 ## 🔧 Tech Stack & Skills
 
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/AWS-F69920?style=flat&logo=amazonaws&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/SQL-00558C?style=flat&logo=postgresql&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Power%20BI-FCB321?style=flat&logo=power-bi&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff"/></a> &nbsp; -- &nbsp;
+  <a href="#"><img src="https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-web-services&logoColor=white"/></a> &nbsp; -- &nbsp;
+  <a href="#"><img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff"/></a> &nbsp; -- &nbsp;
+  <a href="#"><img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=black" width="140" height="30"/></a> &nbsp; -- &nbsp;
+  <a href="#"><img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff"/></a> &nbsp; -- &nbsp;
 </p>
+
 
 
 - **Programming Languages:** Python, SQL, Java  
@@ -79,8 +80,8 @@ I'm a passionate **Software Developer** with expertise in **AWS, Full-Stack Deve
 
 ## 💬 Let's Connect!
 
-[![LinkedIn](https://camo.githubusercontent.com/e0c9609001bfbca7e151a2636a57ff51b54ea83129c26ae4061147cb517c12b6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d426c75653f7374796c653d666c6174266c6f676f3d6c696e6b6564696e)](https://www.linkedin.com/in/vekash-s-148068162/)  
-[![GitHub](https://camo.githubusercontent.com/e0c9609001bfbca7e151a2636a57ff51b54ea83129c26ae4061147cb517c12b6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875622d466f6c6c6f773f7374796c653d666c6174266c6f676f3d676974687562)](https://github.com/vek199)  
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/vekash-s-148068162/)  
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/vek199)  
 📄 **Resume:** [Download Here](./Vekash_S_Resume.pdf)  
 📧 **Email:** vekash1992002@gmail.com  
 📱 **Contact:** +91 9952776391
