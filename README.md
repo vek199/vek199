@@ -6,7 +6,14 @@ I'm a passionate **Software Developer** with expertise in **AWS, Full-Stack Deve
 
 ## 🔧 Tech Stack & Skills
 
-[![Python](https://camo.githubusercontent.com/e0c9609001bfbca7e151a2636a57ff51b54ea83129c26ae4061147cb517c12b6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2d3134333534433f7374796c653d666c6174266c6f676f3d707974686f6e)]()  [![AWS](https://camo.githubusercontent.com/e0c9609001bfbca7e151a2636a57ff51b54ea83129c26ae4061147cb517c12b6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4157532d4646393932303f7374796c653d666c6174266c6f676f3d617773)]()  [![SQL](https://camo.githubusercontent.com/e0c9609001bfbca7e151a2636a57ff51b54ea83129c26ae4061147cb517c12b6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f53514c2d3030353538433f7374796c653d666c6174266c6f676f3d73716c)]()  [![Power BI](https://camo.githubusercontent.com/e59c5de462774ee1937e5b2f9d9a5f9bc26d48cbb3cb69f20763cfbc9a7fdd36/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f7765722042492d4646434232313f7374796c653d666c6174266c6f676f3d706f7765722d6269)]() [![Vue.js](https://camo.githubusercontent.com/e0c9609001bfbca7e151a2636a57ff51b54ea83129c26ae4061147cb517c12b6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5675652e6a732d3446433038443f7374796c653d666c6174266c6f676f3d7675652e6a73)]()  
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/AWS-F69920?style=flat&logo=amazonaws&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/SQL-00558C?style=flat&logo=postgresql&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Power%20BI-FCB321?style=flat&logo=power-bi&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white"/></a>
+</p>
+
 
 - **Programming Languages:** Python, SQL, Java  
 - **Frameworks & Libraries:** Flask, PySpark, Vue.js, Redis, IoT & Embedded Systems, PyTorch  
